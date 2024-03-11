@@ -3,8 +3,15 @@ const b= 20;
 const c = a + b
 console.log(c)
 
+<<<<<<< HEAD
 let a = 30;
 let b = 40;
 console(a + b);
 
 gcfgxtcyvjhvmhv,
+=======
+let a = function apple(){
+      console.log('hey kamni how do yu do')
+}
+a()
+>>>>>>> 78537648fbfb40ab17b57feaacb3dfca2b84e19d
